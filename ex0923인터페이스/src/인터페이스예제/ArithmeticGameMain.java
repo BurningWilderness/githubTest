@@ -37,5 +37,12 @@ public class ArithmeticGameMain {
 		// 5. 맞은 정답 횟수를 출력
 		System.out.println("정답의 개수는" + count + "개 입니다");
 	}
+	//출력문 입력이 안돼요
+	System.out.println("수정");
+	//자동완성하면 이렇게돼용
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
